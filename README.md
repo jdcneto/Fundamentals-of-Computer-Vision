@@ -1,5 +1,5 @@
  
- ## Introdução à Visão Computacional
+ ## Introdução à Visão Computacional 
  
 Repositório do Github para disponibilizar pequenos tutorias sobre fundamentos de Processamento de Imagens de e de Visão Computacional.
 
