@@ -4,7 +4,7 @@
 Repositório do Github para disponibilizar pequenos tutorias sobre fundamentos de Processamento de Imagens e de Visão Computacional.
 
 
-programa de Pós-graduação de Engenharia Elétrica e de Computação - PPGEEC  
+Programa de Pós-graduação em Engenharia Elétrica e de Computação - PPGEEC  
 Escola de Engenharia Elétrica, Mecânica e de Computação - EMC  
-Universidade Federal de Goías - UFG  
-Goías - Brasil
+Universidade Federal de Goiás - UFG  
+Goiás - Brasil
